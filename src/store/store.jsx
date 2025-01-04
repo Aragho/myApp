@@ -19,5 +19,3 @@ export const store = configureStore({
 });
 
 setupListeners(store.dispatch); 
-
-    //connceted Api to the store
